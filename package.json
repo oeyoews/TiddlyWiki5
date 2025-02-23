@@ -1,7 +1,7 @@
 {
   "name": "@oeyoews/tiddlywiki-lite",
   "private": false,
-  "version": "5.3.6--lite",
+  "version": "5.3.6-lite-20250223",
   "author": "Jeremy Ruston <jeremy@jermolene.com>",
   "description": "a non-linear personal web notebook",
   "publishConfig": {
