@@ -1,7 +1,7 @@
 {
   "name": "@oeyoews/tiddlywiki-lite",
   "private": false,
-  "version": "5.3.6-lite-20250323-1",
+  "version": "5.3.6-lite-20250402",
   "author": "Jeremy Ruston <jeremy@jermolene.com>",
   "description": "a non-linear personal web notebook",
   "publishConfig": {
@@ -47,7 +47,12 @@
     "core",
     "themes",
     "languages",
-    "plugins",
+    "plugins/tiddlywiki/markdown",
+    "plugins/tiddlywiki/tiddlyweb",
+    "plugins/tiddlywiki/filesystem",
+    "plugins/tiddlywiki/highlight",
+    "plugins/tiddlywiki/browser-sniff",
+    "plugins/tiddlywiki/pluginlibrary",
     "tiddlywiki.js",
     "editions/server/tiddlywiki.info"
   ]
